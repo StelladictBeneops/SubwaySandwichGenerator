@@ -1,6 +1,3 @@
-Subway Sandwich Generator
-This script generates a random Subway sandwich for you, complete with a bread, meat, vegetables, sauce, and the option of guacamole.
-
 This is a simple Java program that generates a random Subway sandwich with a choice of bread, meat, veggies, sauce, and an optional guacamole.
 
 How to use the Subway Sandwich Generator
@@ -35,7 +32,3 @@ meats
 toppings
 sauces
 You can add, remove, or modify the elements in these arrays to change the choices available for the sandwich.
-
-
-Disclaimer
-This script is for educational purposes only and is not affiliated with or endorsed by Subway or any of its subsidiaries. The script is not intended to be used for commercial purposes or to replace actual Subway sandwich orders.
